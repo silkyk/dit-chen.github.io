@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD in Human Informatics"
   location         : "Tokyo, Japan"
-  employer         : "Daiichi Institute of Technology"
+  employer         : "第一工業大学"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.jp/citations?user=Tkhld1sAAAAJ&hl=en"
   email            :
@@ -103,8 +103,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "0000-0001-7540-3021"
-  pinterest        :
+  orcid            : "http://orcid.org/0000-0001-7540-3021"
+  pinterest        : "chen420"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
