@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: >-
-  academicpages is a ready-to-fork GitHub Pages template for academic personal
-  websites
+title: 陳研究室（Ubiquitous Computing lab.）
 excerpt: About me
 author_profile: true
 redirect_from:
