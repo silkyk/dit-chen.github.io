@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 陳研究室（Ubiquitous Computing lab.）
+title: CHEN Lab. Portal
 excerpt: About me
 author_profile: true
 redirect_from:
@@ -14,17 +14,18 @@ Proposed the Ubiquitous Personal Study (UPS), a distributed (Decentralized) huma
 
 # Education & Research sites:
 
-https://chenlab.net — Chen Lab. Portal
-https://edu2web.com — Education on IoT, Mobile and Web Service
-https://uc4.net — Research on Ubiquitous computing Science
+- https://chenlab.net — CHEN Lab. Portal
+- https://edu2web.com — Education on IoT, Mobile and Web Service
+- https://uc4.net — Research on Ubiquitous computing Science
 
 # Culture sites:
 
-https://poemdb.com — Chinese poem site
-https://silkroad.net — Cyber Silk road Portal
-https://uv0.net  — Fever Music TV
+- https://poemdb.com — Chinese poem site
+- https://silkroad.net — Cyber Silk road Portal
+- https://uv0.net  — Fever Music TV
 
 # Software Repository:
 
-https://github.com/chen420
-https://gitlab.com/chen420
+- https://github.com/chen420
+- https://gitlab.com/chen420
+
