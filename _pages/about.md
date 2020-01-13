@@ -4,7 +4,6 @@ title: 陳研究室（Ubiquitous Computing lab.）
 excerpt: About me
 author_profile: true
 redirect_from:
-  - /about/
   - /about.html
 published: true
 ---
