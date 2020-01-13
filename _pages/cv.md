@@ -1,40 +1,44 @@
 ---
 layout: archive
-title: "CV"
+title: CV
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+published: true
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Electronics Engineering, Zhejiang University
+* M.S. in Information Management Sciences, University of Electro-Communications
+* Ph.D in Human Informatics, Waseda University
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Associate Professor
+  * Daiichi Institute of Technology
+  * Duties included: Lecture, Seminar
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting Lecturer
+  * Waseda University
+  * Duties included: Lecture, Seminar
+
+* Invited Researcher
+  * Waseda University
+  * Duties included: Research on Ubiquitous Personal Study as an Individualized Information Portal
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C
+* LAMP
+  * Linux
+  * Apache
+  * MySQL
+  * PHP
+* App Inventor
 
 Publications
 ======
