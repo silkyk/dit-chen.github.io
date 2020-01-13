@@ -5,10 +5,10 @@ collection: portfolio
 published: true
 ---
 
-We provide e-learning total solutions.
+We provide e-learning total solutions.  
 Edu2Webは、Webから気軽に学習するテーマを取り込みます。
 
-We  using App Inventor to create Android app. Going to organize our courses step by step, discuss the topics related to web learning, especially on Visual Programming.
+We  using App Inventor to create Android app. Going to organize our courses step by step, discuss the topics related to web learning, especially on Visual Programming.  
 App InventorでAndroidアプリを作成。Web learning、特にブラウザーだけのビジュアル・プログラミング学ぶコースをまとめていく予定です。
 
 [Ubiquitous Computing Lab.](https://edu2web.com/)
