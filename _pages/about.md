@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: 陳研究室（Ubiquitous Computing lab.）
 excerpt: About me
 author_profile: true
