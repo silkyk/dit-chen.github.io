@@ -1,5 +1,5 @@
 ---
-title: "Donkey Car"
+title: "Donkey Car Sites"
 excerpt: "A DIY self driving platform for RC cars <br/><img src='/images/donkeycar-k989.jpg'>"
 collection: portfolio
 ---
