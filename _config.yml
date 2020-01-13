@@ -11,7 +11,7 @@ title                    : "Hong Chen"
 title_separator          : "-"
 name                     : &name "Hong Chen"
 description              : &description "PhD in Human Informatic"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dit-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hong Chen"
-  avatar           : "profile.png"
+  avatar           : "Prof_chen.jpg"
   bio              : "PhD in Human Informatics"
   location         : "Tokyo, Japan"
   employer         : "第一工業大学"
