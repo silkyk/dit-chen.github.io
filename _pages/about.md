@@ -14,18 +14,17 @@ Proposed the Ubiquitous Personal Study (UPS), a distributed (Decentralized) huma
 
 # Education & Research sites:
 
-- https://chenlab.net — CHEN Lab. Portal
-- https://edu2web.com — Education on IoT, Mobile and Web Service
-- https://uc4.net — Research on Ubiquitous computing Science
+- [https://chenlab.net](https://chenlab.net) — CHEN Lab. Portal
+- [https://edu2web.com](https://edu2web.com) — Education on IoT, Mobile and Web Service
+- [https://uc4.net](https://uc4.net) — Research on Ubiquitous computing Science
 
 # Culture sites:
 
-- https://poemdb.com — Chinese poem site
-- https://silkroad.net — Cyber Silk road Portal
-- https://uv0.net  — Fever Music TV
+- [https://poemdb.com](https://poemdb.com) — Chinese poem site
+- [https://silkroad.net](https://silkroad.net) — Cyber Silk road Portal
+- [https://uv0.net](https://uv0.net)  — Fever Music TV
 
 # Software Repository:
 
-- https://github.com/chen420
-- https://gitlab.com/chen420
-
+- [https://github.com/chen420](https://github.com/chen420)
+- [https://gitlab.com/chen420](https://gitlab.com/chen420)
