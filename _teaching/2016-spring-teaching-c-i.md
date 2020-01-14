@@ -2,7 +2,7 @@
 title: 2016-spring-teaching-c
 collection: teaching
 type: Undergraduate course
-permalink: /teaching/2016-spring-teaching-c
+permalink: /teaching/2016-spring-teaching-c-i
 venue: 'Daiichi Institute of Technology, Tokyo Ueno Campus'
 date: 2016-04-01T00:00:00.000Z
 location: 'Tokyo, Japan'
