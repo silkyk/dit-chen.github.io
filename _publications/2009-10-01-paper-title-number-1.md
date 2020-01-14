@@ -1,15 +1,21 @@
 ---
-title: "Paper Title Number 1"
+title: >-
+  Ubi-Care: a Decentralized Ubiquitous Sensing Healthcare System for the Elderly
+  Living Support
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: This paper is about the number 1. The number 2 is left for future work.
+date: {}
+venue: Journal 1
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: >-
+  Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>.
+  1(1).
+published: true
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The world is becoming an aging society, with social security benefit spending and long-term care costs are rising sharply. It is highly hoped that advanced ICT will be used to manage health and that elderly people, regardless of their age, can actively participate in society even if they live alone. Conventional centralized health management systems are costly, associative of high communication delays, prone to high-security risks, and difficult to share the data. We propose iUPS: a decentralized ubiquitous sensing framework for monitoring and supporting people. iUPS organized with follows layers: An IoT device layer that ubiquitous sensing wide variety of environmental information with the sensor devices, regardless wear-free sensors or wearable sensors; an edge layer that collects large quantities data into UPD, then filtered and fused the valuable health data into individual's local Solid POD; a cloud layer include some individual's Solid PODs. individual's data can be moved or copied freely between the local Solid POD and Solid POD in the cloud. Users are free to choose a health data analysis application and request analysis and monitoring. Furthermore, we apply the proposed layered iUPS framework into Ubi-Care: A Decentralized Ubiquitous Sensing Healthcare System for the Elderly Living Support, we discuss the design, technical and elderly daily life issues regarding the minimal implementation of the healthcare system.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/profile/Hong_Chen18/publication/336742054_Ubi-Care_a_Decentralized_Ubiquitous_Sensing_Healthcare_System_for_the_Elderly_Living_Support/links/5db0578f4585155e27f8103f/Ubi-Care-a-Decentralized-Ubiquitous-Sensing-Healthcare-System-for-the-Elderly-Living-Support.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation:   
+Chen, H., 2019, August. Ubi-Care: a Decentralized Ubiquitous Sensing Healthcare System for the Elderly Living Support. In 2019 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech) (pp. 543-547). IEEE.
