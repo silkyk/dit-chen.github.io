@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: 2016-spring-teaching-c
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: Undergraduate course
+permalink: /teaching/2016-spring-teaching-c
+venue: 'Daiichi Institute of Technology, Tokyo Ueno Campus'
+date: 2016-04-01T00:00:00.000Z
+location: 'Tokyo, Japan'
+published: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+1		ガイダンス 学習目的	情報工学系科目のC言語の位置づけ	プログラマ記述時の約束				60
+2		基本的なプログラム	Ｃプログラムの作成　　文字列の表示	printf関数：書式化して表示を行う関数	テキストを読む	30	授業内容を復習する	60
+3		基本的なプログラム	変数と宣言 代入 初期化		テキストを読む	30	授業内容を復習する	60
+4		基本的なプログラム	文字型と文字列		テキストを読む	30	授業内容を復習する	60
+5		演算子	計算演算子		テキストを読む	30	授業内容を復習する	60
+6		演算子	論理演算子		テキストを読む	30	授業内容を復習する	60
+7		演算子	型の変換、演算子の優先度		テキストを読む	30	授業内容を復習する	60
+8		１回～７回までのまとめ	１回～７回までのまとめ				授業内容を復習する	60
+9		制御文	if ～else～if～ else～ 文 　　　 if文の　ネスト　条件演算子		テキストを読む	30	授業内容を復習する	60
+10		制御文	switch文　　break 文		テキストを読む	30	授業内容を復習する	60
+11		制御文	while文　　for文とwhile文		テキストを読む	30	授業内容を復習する	60
+12		配列とポインタ	配列と多次元配列		テキストを読む	30	授業内容を復習する	60
+13		配列とポインタ	ポインタ		テキストを読む	30	授業内容を復習する	60
+14		配列とポインタ	ポインタと配列		テキストを読む	30	授業内容を復習する	60
+15		前期のまとめ	まとめと総括。小テストの実施					
