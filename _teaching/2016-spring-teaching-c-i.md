@@ -1,5 +1,5 @@
 ---
-title: 2016-spring-teaching-c
+title: 2016 Spring Teaching C I
 collection: teaching
 type: Undergraduate course
 permalink: /teaching/2016-spring-teaching-c-i
