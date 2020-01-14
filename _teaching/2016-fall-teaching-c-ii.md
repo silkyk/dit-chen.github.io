@@ -1,10 +1,10 @@
 ---
-title: 2016-spring-teaching-c
+title: 2016 Spring Teaching C II
 collection: teaching
 type: Undergraduate course
 permalink: /teaching/2016-fall-teaching-c-ii
 venue: 'Daiichi Institute of Technology, Tokyo Ueno Campus'
-date: 2016-04-01T00:00:00.000Z
+date: 2016-10-01T00:00:00.000Z
 location: 'Tokyo, Japan'
 published: true
 ---
