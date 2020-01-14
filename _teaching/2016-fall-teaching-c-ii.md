@@ -1,5 +1,5 @@
 ---
-title: 2016 Spring Teaching C II
+title: 2016 Fall Teaching C II
 collection: teaching
 type: Undergraduate course
 permalink: /teaching/2016-fall-teaching-c-ii
