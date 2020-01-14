@@ -19,3 +19,12 @@ Recently, SNS (Social Network Service), blog and microblog have become very popu
 
 Recommended citation:   
 Chen, H., Zhou, X. and Jin, Q., 2012. Socialized ubiquitous personal study: Toward an individualized information portal. Journal of Computer and System Sciences, 78(6), pp.1775-1792.
+
+* This article, for the selection of "Socialized ubiquitous personal study: Toward an individualized information portal" as anotable paper in computing in 2012.
+
+<img src='/images/NotablePaper.gif'>
+
+For detail, Check out it
+
+http://librarians.acm.org/2012-best-reviews-notable-books-and-articles-computer-science
+Notable Paper in Computing in 2012
