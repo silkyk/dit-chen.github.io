@@ -28,7 +28,7 @@ Work experience
 
 * Invited Researcher
   * Waseda University
-  * Duties included: Research on Ubiquitous Personal Study as an Individualized Information Portal
+  * Duties included: Research on Decentralized Information System
   
 Skills
 ======
@@ -60,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in IEEE [CyberSciTech](http://cyber-science.org/) and other teams
