@@ -30,6 +30,15 @@ Work experience
   * Waseda University
   * Duties included: Research on Decentralized Information System
   
+* IT Architect
+  * GMO-Research Inc.,
+  * Moving ahead on file and knowledge sharing.
+  * Redmine, Sendmail system admin.
+  
+* System Engineer
+  * Cosmo Securities
+  * Investment trust package software developer.
+  
 Skills
 ======
 * C
