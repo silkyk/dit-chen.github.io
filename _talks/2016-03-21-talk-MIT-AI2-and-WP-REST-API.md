@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2016-03-21-talk-MIT-AI2-and-WP-REST-API
 venue: "株式会社メンバーズ 東京本社"
-date: 2012-03-01
+date: 2016-03-21
 location: "Tokyo, Japan"
 ---
 
