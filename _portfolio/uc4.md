@@ -19,3 +19,12 @@ Raspberry PiとArduinoで作るIoT装置、オープンソースソフトウェ�
 
 ## ユビキタス情報システム(Ubiquitous Information Systems)
 IoTデバイス、クラウドサービスとモバイルデバイスに共通のAPIを設け、データとアプリを分離し相互運用性を高め、特定のアプリケーションやデータへの事前設定されたアクセスに限定されずに、ヒューマン・デバイス・アプリケーションへのリンクを自由自在に切り替える情報システムを構築します。
+
+# Ubiquitous Computing Sites
+* http://uc4.net/
+* http://ai2.uc4.net
+* http://iot.uc4.net
+* http://ubicare.uc4.net
+* http://ubistudy.uc4.net
+* http://ucar.uc4.net
+* http://uhome.uc4.net
