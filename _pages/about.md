@@ -8,7 +8,7 @@ redirect_from:
   - /about/
 published: true
 ---
-Hong CHEN is a researcher and an educator. He received his college education at Zhejiang University , Hangzhou China. He came to Japan in 1988, and received his graduate education at The University of Electro-Communications and Waseda University , Tokyo Japan.
+Hong CHEN is a programmer, researcher and an educator. He received his college education at Zhejiang University, Hangzhou, China. He came to Japan and received his graduate education at The University of Electro-Communications and Waseda University, Tokyo, Japan.
 
 Proposed the Ubiquitous Personal Study (UPS), a distributed (Decentralized) human-oriented social network platform, it try to integrate user’s actions, involving cyber space and real world activities, organize these stream data into a private cloud, to grasping aspects of people’s information behaviors and social activities. It ideally suited to next-generation platform to support accessing, managing, organizing, sharing and recommending information.
 
@@ -17,6 +17,7 @@ Proposed the Ubiquitous Personal Study (UPS), a distributed (Decentralized) huma
 - [https://chenlab.net](https://chenlab.net) — CHEN Lab. Portal
 - [https://edu2web.com](https://edu2web.com) — Education on IoT, Mobile and Web Service
 - [https://uc4.net](https://uc4.net) — Research on Ubiquitous computing Science
+- [https://digilib.org/](https://digilib.org/) - Tech Blog
 
 # Culture sites:
 
