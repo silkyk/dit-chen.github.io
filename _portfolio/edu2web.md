@@ -1,6 +1,8 @@
 ---
 title: Edu2Web Sites
-excerpt: 第一工業大学などIoT、App、Cloud教育に関連する資料<br/><img src='/images/edu2web_400x400.png'>
+excerpt: >-
+  第一工業大学などIoT、App、Cloud教育に関連する資料<br/><img src='/images/edu2web_400x400.png'
+  width='300'>
 collection: portfolio
 published: true
 ---
@@ -22,3 +24,5 @@ App InventorでAndroidアプリを作成。Web learning、特にブラウザー�
 - [DONKEYCAR & SDL](https://donkeycar.jp/)
 
 Contact : info@edu2web.com
+
+![]({{site.baseurl}}//images/edu2web_400x400.png)
