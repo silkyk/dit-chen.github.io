@@ -1,7 +1,10 @@
 ---
-title: "Donkey Car Sites"
-excerpt: "A DIY self driving platform for RC cars <br/><img src='/images/donkeycar-k989.jpg'>"
+title: Donkey Car Sites
+excerpt: >-
+  A DIY self driving platform for RC cars <br/><img
+  src='/images/donkeycar-k989.jpg' width='300'>
 collection: portfolio
+published: true
 ---
 
 初心者からでもAIを体験する！
