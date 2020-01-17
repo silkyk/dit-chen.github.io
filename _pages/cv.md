@@ -14,15 +14,15 @@ published: true
 Work experience
 ======
 * Associate Professor
-  * Daiichi Institute of Technology
+  * Department of Information and Electronics Systems Engineering, Daiichi Institute of Technology
   * Duties included: Lecture, Seminar
 
 * Visiting Lecturer
-  * Waseda University
+  * Faculty of Human Sciences, Waseda University
   * Duties included: Lecture, Seminar
 
 * Invited Researcher
-  * Waseda University
+  * Advanced Research Center for Human Sciences, Waseda University
   * Duties included: Research on Decentralized Information System
   
 * IT Architect
@@ -31,7 +31,7 @@ Work experience
   * Redmine, Sendmail system admin.
   
 * System Engineer
-  * Cosmo Securities
+  * Cosmo Information Center, Cosmo Securities
   * Investment trust package software developer.
 
 Academic Activities
