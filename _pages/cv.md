@@ -10,11 +10,6 @@ published: true
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Electrical and Electronics Engineering, Zhejiang University
-* M.S. in Information Management Sciences, University of Electro-Communications
-* Ph.D in Human Informatics, Waseda University
 
 Work experience
 ======
@@ -53,6 +48,12 @@ Academic Activities
 * Award
   * IEEE Outstanding Leadership Award (CyberSciTech 2019)
   * "Socialized ubiquitous personal study: Toward an individualized information portal" as a notable paper in computing in 2012.
+
+Education
+======
+* B.S. in Electrical and Electronics Engineering, Zhejiang University
+* M.S. in Information Management Sciences, University of Electro-Communications
+* Ph.D in Human Informatics, Waseda University
 
 Skills
 ======
