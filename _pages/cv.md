@@ -37,17 +37,21 @@ Work experience
 Academic Activities
 ======
 * Guest Editor
-  * Special Session on the Impact of Internet of Things on the Future Elderly Care (IoTonFEC), The 4th IEEE Cyber Science and Technology Congress ([CyberSciTech 2019](http://cyber-science.org/2019/)), Fukuoka, Japan
-  * The 1st IEEE international workshop on the Impact of Internet of Things on Daily Life (IoT-Life), The 5th IEEE Cyber Science and Technology Congress ([CyberSciTech 2020](http://cyber-science.org/2020/)) - Calgary, Canada 
+  * 2019 Special Session on the Impact of Internet of Things on the Future Elderly Care (IoTonFEC), The 4th IEEE Cyber Science and Technology Congress ([CyberSciTech 2019](http://cyber-science.org/2019/)), Fukuoka, Japan
+  * 2020 The 1st IEEE international workshop on the Impact of Internet of Things on Daily Life (IoT-Life), The 5th IEEE Cyber Science and Technology Congress ([CyberSciTech 2020](http://cyber-science.org/2020/)) - Calgary, Canada 
 * Session Chair
-  * The 4th IEEE Cyber Science and Technology Congress ([CyberSciTech 2019](http://cyber-science.org/2019/)), Fukuoka, Japan
-  * The 2nd IEEE International Workshop on Management of Emerging Networks and Services (MENS 2010), Xian, China
+  * 2019 The 4th IEEE Cyber Science and Technology Congress ([CyberSciTech 2019](http://cyber-science.org/2019/)), Fukuoka, Japan
+  * 2010 The 2nd IEEE International Workshop on Management of Emerging Networks and Services (MENS 2010), Xian, China
 * Publicity Chair
-  * The 1st IEEE Cyber Science and Technology Congress ([CyberSciTech 2016](https://cyberscitech.net/2016/))
-  * The 2nd IEEE Cyber Science and Technology Congress ([CyberSciTech 2017](https://cyberscitech.net/2017/))
+  * 2017 The 2nd IEEE Cyber Science and Technology Congress ([CyberSciTech 2017](https://cyberscitech.net/2017/))
+  * 2016 The 1st IEEE Cyber Science and Technology Congress ([CyberSciTech 2016](https://cyberscitech.net/2016/))
+* Reviewer
+  * 2019 IGI Global
+  * 2012 Elsevier 
+  * 2011 ICWL(International Conference on Web-based Learning)
 * Award
-  * IEEE Outstanding Leadership Award ([CyberSciTech 2019](http://cyber-science.org/2019/))
-  * "Socialized ubiquitous personal study: Toward an individualized information portal" as a [notable paper in computing in 2012](http://www.computingreviews.com/recommend/bestof/notableitems_2012.cfm#list).
+  * 2019 IEEE Outstanding Leadership Award ([CyberSciTech 2019](http://cyber-science.org/2019/))
+  * 2012 "Socialized ubiquitous personal study: Toward an individualized information portal" as a [notable paper in computing in 2012](http://www.computingreviews.com/recommend/bestof/notableitems_2012.cfm#list).
 
 Education
 ======
