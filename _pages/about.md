@@ -8,9 +8,9 @@ redirect_from:
   - /about/
 published: true
 ---
-Hong CHEN is a programmer, researcher and an educator. He received his college education at Zhejiang University, Hangzhou, China. He came to Japan and received his graduate education at The University of Electro-Communications and Waseda University, Tokyo, Japan.
+Hong CHEN is a programmer, researcher and an educator. He received his college education at Zhejiang University, Hangzhou, China. He came to Japan and received his graduate education at The University of Electro-Communications and Waseda University, Tokyo, Japan. Now he studies the field of decentralized ubiquitous information systems.
 
-Proposed the Ubiquitous Personal Study (UPS), a distributed (Decentralized) human-oriented social network platform, it try to integrate user’s actions, involving cyber space and real world activities, organize these stream data into a private cloud, to grasping aspects of people’s information behaviors and social activities. It ideally suited to next-generation platform to support accessing, managing, organizing, sharing and recommending information.
+He proposed the Ubiquitous Personal Study (UPS), a distributed (Decentralized) human-oriented social network platform, it try to integrate user’s actions, involving cyber space and real world activities, organize these stream data into a private cloud, to grasping aspects of people’s information behaviors and social activities. It ideally suited to next-generation platform to support accessing, managing, organizing, sharing and recommending information.
 
 # Education & Research sites:
 
