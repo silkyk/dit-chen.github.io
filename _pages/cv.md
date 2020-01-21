@@ -23,7 +23,7 @@ Work experience
 
 * Invited Researcher
   * Advanced Research Center for Human Sciences, Waseda University
-  * Duties included: Research on Decentralized Information System
+  * Duties included: Research on Decentralized Ubiquitous Information System
   
 * IT Architect
   * GMO-Research Inc.,
